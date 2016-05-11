@@ -23,7 +23,7 @@ public class Weather extends DataUpdater<WeatherData> {
   /**
    * The key used for the Forecast API.
    */
-  private static final String FORECAST_IO_API_KEY = "58b42a8aa74df3e828442a4fb79f5dba";
+   private static final String FORECAST_IO_API_KEY = "4b561e5392b33a31d504ede599cbdcd9";
 
   /**
    * The time in milliseconds between API calls to update the weather.
